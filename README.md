@@ -24,9 +24,9 @@
 ## 勘誤
 #### 圖片才剛剛畫好，其實還沒有仔細的校正過，可能藏有錯誤，請不吝開 issue ~
 ## 圖例
-#### 我忘記畫了 `對不起`
+#### 已經新增至最新的圖中，尚未有英文翻譯
 ## Where is Legend?
-#### I forgot. `my bad`
+#### Added to latest guide but there is no translation yet.
 ## 可用格式/Available formats
 #### png, jpeg
 ![預覽圖](https://github.com/SODAIS69/NCU-Transport-Guide/blob/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg "Logo 標題文字 1")
