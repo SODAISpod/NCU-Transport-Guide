@@ -5,9 +5,9 @@
 
 ##### 圖的左下角繪有QRCODE以及更新日期，可以用來更新圖片，有新的圖都可以掃這個CODE更新!
 
-##### This guide map is designed for students in National Central University (NCU) traveling around nearby regions. Mainly are routed via campus.  I hope the map can help you fix problems while on your rides.
+##### This guide map is designed for students in National Central University (NCU) traveling around nearby area. Mainly are routed via campus.  I hope the map can help you while on your ways.
 
-##### There are QRcode and the last updated date on the bottom left. You can check the latest map scanning the QRcode.
+##### There are QRcode and the last updated date on the bottom left. You can check the latest map by scanning the QRcode.
 
 
 
