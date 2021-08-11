@@ -1,5 +1,4 @@
-# 中央大學大眾運輸指引
-# NCU Transport Guide
+# 中央大學大眾運輸指引  NCU Transport Guide
  這份指引是設計給中央大學的學生來往周邊地區的大眾運輸指引地圖。主要繪製的路線是各種經由學校前往各地的車班。
  近日新學年剛開始，適逢各家公車路線改點改站，之前應該有很多還沒租房的菜鳥(我)，利用各種大眾運輸通勤至學校辦事；卻因為混亂的改版資訊，疲於蒐集資訊。因此本魯起了繪製中大通勤地圖的念頭。
  這張圖花了大概一周繪製，期間如果有還沒搞懂公車怎麼坐的人大概也快放棄了，已經很懂得老手，也希望這張圖能夠幫上一點小忙~
@@ -11,7 +10,7 @@ This guide map is designed for students in National Central University (NCU) tra
 There are QRcode and the last updated date on the bottom left. You can check the latest map by scanning the QRcode.
 
 
-[![預覽圖](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg "預覽圖")]
+[![預覽圖](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg "預覽圖")](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg)
 
 ## 搭乘方案
 + 坐火車的人可以從中壢火車站的地方開始搭乘
