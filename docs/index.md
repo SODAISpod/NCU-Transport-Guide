@@ -12,6 +12,7 @@ There are QRcode and the last updated date on the bottom left. You can check the
 
 
 [![預覽圖](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg "預覽圖")](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg)
+*點擊前往~*
 
 ## 搭乘方案
 + 坐火車的人可以從中壢火車站的地方開始搭乘
@@ -19,7 +20,8 @@ There are QRcode and the last updated date on the bottom left. You can check the
 + 坐飛機的人，可以搭乘機場捷運，到桃園高鐵站之後再轉乘公車到學校
 + 台北人可以搭乘`［9025A］`繞駛中央大學的班次至學校
 + 搭乘校際接駁車的同學請搭乘台聯大或是中研院的接駁車到學校，台聯大的接駁車似乎會檢查學生證，中研院的我不太確定，目前我都沒搭過。
-
+## 疫情期間
+疫情期間班次變動頻繁，如果有收到學校發的信我就會更新，如果你發現有什麼緊急的變動了話也歡迎回報喔~
 ## 關於PDF
 很多大眾運輸的路線圖繪輸出成PDF，但是由於原始的檔案的size實在太大了，我已經試著把檔案縮小再輸出，但是檔案還是太大了，輸出的PDF大到電腦難以讀取，手機連開都不用想開，所以暫時不會提供PDF檔。
 ## 勘誤
