@@ -35,5 +35,5 @@ There are QRcode and the last updated date on the bottom left. You can check the
 ## 圖例
 ~~已經新增至最新的圖中，尚未有英文翻譯~~ 已經加入了
 ## 可用格式/Available formats
-png, jpeg
+png, jpeg, web
 
