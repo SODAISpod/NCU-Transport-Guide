@@ -11,7 +11,7 @@ This guide map is designed for students in National Central University (NCU) tra
 There are QRcode and the last updated date on the bottom left. You can check the latest map by scanning the QRcode.
 
 
-[![預覽圖](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg "預覽圖")](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg)
+[![預覽圖](https://raw.githubusercontent.com/SODAIS69/NCU-Transport-Guide/master/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E6%8C%87%E5%BC%95%20NCU%20Transport%20Guide.jpg "預覽圖")](./map.html)
 *點擊前往~*
 
 ## 搭乘方案
