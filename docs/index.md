@@ -28,6 +28,8 @@ There are QRcode and the last updated date on the bottom left. You can check the
 
 ## 疫情期間
 疫情期間班次變動頻繁，如果有收到學校發的信我就會更新，如果你發現有什麼緊急的變動了話也歡迎回報喔~
+## 即時動態
+如果要查看即時動態，請使用 web 版打開之後就可以點選囉！
 ## 關於PDF
 很多大眾運輸的路線圖繪輸出成PDF，但是由於原始的檔案的size實在太大了，我已經試著把檔案縮小再輸出，但是檔案還是太大了，輸出的PDF大到電腦難以讀取，手機連開都不用想開，所以暫時不會提供PDF檔。
 ## 勘誤
@@ -35,5 +37,5 @@ There are QRcode and the last updated date on the bottom left. You can check the
 ## 圖例
 ~~已經新增至最新的圖中，尚未有英文翻譯~~ 已經加入了
 ## 可用格式/Available formats
-png, jpeg, web
+png, jpeg, [web](./map.html)
 
